@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          sanju is alxi error naherne j payo tehi copy garne
         </a>
       </header>
     </div>
