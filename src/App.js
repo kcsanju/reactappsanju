@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          sanju is alxi error naherne j payo tehi copy garne
+          sanju kc
         </a>
       </header>
     </div>
